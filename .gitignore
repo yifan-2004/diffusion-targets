@@ -1,0 +1,12 @@
+*
+!*/
+!*.py
+!requirements.txt
+!LICENSE.txt
+!README.md
+!.gitignore
+**/runs/
+**/data/
+**/coco_data/
+**/prepared/
+**/__pycache__/

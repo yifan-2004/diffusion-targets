@@ -1,0 +1,9 @@
+torch>=2.6
+torchvision
+timm==1.0.22
+numpy
+pillow
+matplotlib
+pyarrow
+torch-fidelity
+scipy
